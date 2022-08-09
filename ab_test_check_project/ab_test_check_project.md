@@ -19,12 +19,12 @@ Task
 Chek A/B test results
  
  specification
-1.Test name : recomended_system_test
-2.groups: A- control group B - new test group
-3.start date: 2020-12-07
-4.date when new users were stopped:  2020-12-21
-5.stop date 2021-01-04
-6.audience: 15% of new users from the region EU
-7.purpose of the test: testing changes associated with the introduction of an improved recommender system
-8.number of users required for the test: 6000
-9.expected effect: in 14 days from the moment of registration, users will show an improvement in each metric by at least 10%
+1. test name : recomended_system_test
+2. groups: A- control group B - new test group
+3. start date: 2020-12-07
+4. date when new users were stopped:  2020-12-21
+5. stop date 2021-01-04
+6. audience: 15% of new users from the region EU
+7. purpose of the test: testing changes associated with the introduction of an improved recommender system
+8. number of users required for the test: 6000
+9. expected effect: in 14 days from the moment of registration, users will show an improvement in each metric by at least 10%
