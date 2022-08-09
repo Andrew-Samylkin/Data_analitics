@@ -7,6 +7,7 @@
     1) выделить целевые группы клиентов
     2) предложить меры по снижению оттока
     3) определить другие особенности взаимодействия с клиентами 
+
 Main goals:
 - analyze and prepare an action plan to retain customers
 - learn to predict the probability of churn(at the level of the next month) for each client
