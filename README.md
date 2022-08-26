@@ -1,4 +1,4 @@
-# Data Analysis projects
+# Yandex.Practicum Data Analysis Projects
 
 Краткая информация о проектах представленных в данном репозитории
 
