@@ -1,4 +1,4 @@
-# Data_analitics
+# Data Analysis projects
 
 Краткая информация о проектах представленных в данном репозитории
 
