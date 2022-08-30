@@ -13,4 +13,4 @@
 - Pandas
 
 #### tags:
-- data science, machine learning, ML, Python, SQL, Git, Pandas, Numpy, Matplotlib, seaborn, Sklearn, Tableau, Spark, Hadoop, R, sci-py, Research, Kaggle, Algorithms, PyTorch, TensorFlow, CatBoost, xgboost, Support vector machines,  Gradient Boosting, nonlinear optimization, clustering, random forest, descision trees,  regression,  Reinforcement Learning, OpenCV, PIL
+- Python, Pandas, Numpy, Matplotlib, Seaborn
