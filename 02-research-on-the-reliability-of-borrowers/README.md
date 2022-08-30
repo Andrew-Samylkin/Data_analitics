@@ -9,7 +9,7 @@
 1. Is there a relationship between the number of children and loan repayment on time?
 2. Is there a relationship between marital status and loan repayment on time?
 3. Is there a relationship between income and loan repayment on time?
-4 .How do different purposes of a loan affect its repayment on time?
+4. How do different purposes of a loan affect its repayment on time?
 
 #### Scope of activities: 
 - Banking / FinTech, Startups, IT company, Business services [b2b] 
