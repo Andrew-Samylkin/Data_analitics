@@ -1,14 +1,16 @@
-Необходимо сделать предварительный анализ тарифов на небольшой выборке клиентов. 
-В  распоряжении данные 500 пользователей оператора: кто они, откуда, 
-каким тарифом пользуются, сколько звонков и сообщений каждый отправил за 2018 год и информация по каждому из тарифов. 
-Нужно проанализировать поведение клиентов и сделать вывод — какой тариф приносит больше денег. 
-На основании проведенного анализа комерческий департамент хочет понять как необходимо скорректировать рекламный бюджет.
+# Determine more perspective plan for a telecom company
 
-Так же необходимо проверить следующие гипотезы:
-* средняя выручка пользователей тарифов «Ультра» и «Смарт» различаются
-* средняя выручка пользователей из Москвы отличается от выручки пользователей из других регионов
+#### Task:
+- Based on customer data determine the most profitable plan
 
-English version
+#### Description:
+- The Megaline is one of the biggest federal telecom companies in the region. The marketing department wants to find out the most profitable mobile tariff to correct their advertising budget. Megaline has two tariffs: "Smart" and "Ultra". The first things need to make EDA, and then you should analyze the behavior of customers of each of the tariffs (How many calls, SMS customers do, and how much traffic on the internet  they used.)  
+After that need to check two hypotheses: 
+1. The average revenue of customers of "Ultra" and "Smart" tariffs differ.  
+2. The average revenue of users from Moscow differs from the revenue of users from other regions
 
-On a small sample of mobile operator's customers, which consists of determining which tariff brings more money.
-В датесетах есть вся необходимая информация о тарифах и клиетах 
+#### Scope of Activities:
+- Telecom,  Business services [b2b]
+
+#### Tags:
+- EDA, pandas, numpy, seaborn, histogram, boxplot, data analyst, hypotheses testing, statistics
