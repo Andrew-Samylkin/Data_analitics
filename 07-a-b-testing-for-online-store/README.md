@@ -1,4 +1,4 @@
-# A/B testing marketing
+# A/B testing for online store
 
 #### Task:
 - Prioritize hypotheses and analyze A/B test results
