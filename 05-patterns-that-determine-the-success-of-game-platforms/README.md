@@ -1,17 +1,19 @@
-Доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). 
-Необходимо выявить определяющие факторы влияющие  на успешность игры. 
-В дальнейшем это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.
+# Patterns that determine the success of game platforms
 
-Так же необходимо проверить слудующие гипотезы:
-1. Средние пользовательские рейтинги платформ Xbox One и PC одинаковые
-2. Средние пользовательские рейтинги жанров Action (англ. «действие», экшен-игры) и Sports (англ. «спортивные соревнования») разные
 
-Task
+#### Task:
+- Using historical data on sales of computer games  identify patterns that determine the success of a game
 
-Historical game sales data, user and expert ratings, genres and platforms (such as Xbox or PlayStation) are available.
-It is necessary to identify the determining factors affecting the success of the game.
-In the future, this will allow you to place a bet on a potentially popular product and plan advertising campaigns.
+#### Description:
+- The online store sells computer games all over the world. From open sources, we have historical data about selling these games. The data contains information about the genre of the games and the ratings of users and experts. There is data up to 2016.  Using this data to determine features that influence the success of the computer game.  Also necessary to create a user profile for each region. After that  answer for the next hypothesis:
+1. Average users rating for  Xbox One and PC is equal
+2. Average users rating for Action and Sports genre is differ
 
-Test the following hypotheses:
-1. The average user ratings of the Xbox One and PC platforms are the same
-2. Average user ratings for Action and Sports genres are different
+#### Scope of Activities:
+- Gamedev, Games, Online Stores
+
+#### Used Libraries:
+- Numpy, Pandas, Matplotlib, Seaborn, SciPy 
+
+#### Tags:
+- EDA, Pandas, NumPy, Seaborn, histogram, boxplot, data analyst, hypotheses testing, statistics, Gamedev
