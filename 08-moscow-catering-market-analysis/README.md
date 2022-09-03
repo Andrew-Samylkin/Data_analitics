@@ -7,7 +7,7 @@
 - Investors want to open a new cafe in Moscow. We have opens sources data about the catering market . Based on this information you should give recommendations  to investors
 
 #### Scope of Activities:
-- geo analytics, b2b
+- geo analytics, Business services [b2b] (outsourcing consulting audit)
 
 #### Used Libraries:
 - NumPy, Pandas, Matplotlib, Seaborn, SciPy, Random, datetime,  plotly
