@@ -1,14 +1,16 @@
-Приоритезация гипотез и проведение A/B теста интернет-магазина
+# A/B testing marketing
 
-Задача:
+#### Task:
+- Prioritize hypotheses and analyze A/B test results
 
-* Произвести приоритезацию списка гипотез для увеличения прибыли
-* На основании приоритезированного списка провести A/B-тест проанализировать результаты
+#### Description:
+- Based on next parameters (reach, impact, confidence, effort) prioritize hypotheses. Analyze a/b test using datasets with information about orders and visitors.
 
+#### Scope of Activities:
+- A/B testing, online store, marketing,  b2c
 
-Hypothesis prioritization and A/B testing of an online store
+#### Used Libraries:
+- NumPy, Pandas, Matplotlib, Seaborn, SciPy, Random, datetime
 
-Task:
-
-* Prioritize the list of hypotheses to increase profits
-* Based on the prioritized list, conduct an A/B test and analyze the results
+#### Tags:
+- EDA, Pandas, NumPy, Seaborn, histogram, boxplot, data analyst, hypotheses testing, statistics, Gamedev, metrics, metric  A/B test 
