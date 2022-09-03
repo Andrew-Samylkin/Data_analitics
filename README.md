@@ -46,7 +46,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td>Python, Pandas, Numpy, Matplotlib, Seaborn, Plotly, EDA</td>
   </tr>
   <tr>
-    <td><a href="https://github.com/Andrew-Samylkin/yandex-practicum-data-analysis-projects/tree/main/07-a-b-testing-marketing">A/B testing for online store</a></td>
+    <td><a href="https://github.com/Andrew-Samylkin/yandex-practicum-data-analysis-projects/tree/main/07-a-b-testing-for-online-store">A/B testing for online store</a></td>
     <td>Prioritize hypotheses and analyze A/B test results.</td>
     <td>Python, Pandas, Numpy, Matplotlib, Seaborn, EDA, A/B testing</td>
   </tr>
