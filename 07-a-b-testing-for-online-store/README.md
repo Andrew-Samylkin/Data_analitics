@@ -1,4 +1,4 @@
-# A/B testing for online store
+# A/B testing marketing
 
 #### Task:
 - Prioritize hypotheses and analyze A/B test results
@@ -13,4 +13,4 @@
 - NumPy, Pandas, Matplotlib, Seaborn, SciPy, Random, datetime
 
 #### Tags:
-- EDA, Pandas, NumPy, Seaborn, histogram, boxplot, data analyst, hypotheses testing, statistics, Gamedev, metrics, metric  A/B testing 
+- EDA, Pandas, NumPy, Seaborn, histogram, boxplot, data analyst, hypotheses testing, statistics, Gamedev, metrics, metric  A/B test 
