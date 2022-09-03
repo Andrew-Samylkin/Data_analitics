@@ -1,16 +1,16 @@
-Анализ рынка заведений общественного питания Москвы
+# Moscow catering market analysis
 
-Задача:
+#### Task:
+- Research the Moscow catering market and provide recommendations for investors
 
-Провети анализ текущего положения дел на рынке заведений общественного питания
-На основании проведенного анализа предложить вариант который с большей вероятностью будет пользоваться на рынке популярностью. 
-Так же определить основные районы города минимальным уровнем конкуренции и относительно большим потоком людей
+#### Description:
+- Investors want to open a new cafe in Moscow. We have opens sources data about the catering market . Based on this information you should give recommendations  to investors
 
+#### Scope of Activities:
+- geo analytics, b2b
 
-analysis of restaurants in moscow
+#### Used Libraries:
+- NumPy, Pandas, Matplotlib, Seaborn, SciPy, Random, datetime,  plotly
 
-Task
-
-Conduct an analysis of the current state of affairs in the market of catering establishments
-Based on the analysis, propose an option that is more likely to be popular on the market.
-Also determine the main areas of the city with a minimum level of competition and a relatively large flow of people
+#### Tags:
+- EDA, Pandas, NumPy, Seaborn, histogram, boxplot, violinplot, data analyst, hypotheses testing, statistics, plotly
