@@ -1,19 +1,16 @@
-Основные задачи:
-- провести анализ и подготовить план действий по удержанию клиентов
-- научиться прогнозировать вероятность оттнока ( на уровне следующего месяца) для каждого клиента
-- сформировать типичные портреты клиентов: выделить несколько наиболее ярких групп и охарактеризовать их основыне свойства
-- проанализировать основные признаки, наиболее сильно влияющие на отток 
-- сформулировать основные выводы и рекомендации по повышению  качества работы с клиентами:
-    1) выделить целевые группы клиентов
-    2) предложить меры по снижению оттока
-    3) определить другие особенности взаимодействия с клиентами 
+# Gym churn analysis
 
-Main goals:
-- analyze and prepare an action plan to retain customers
-- learn to predict the probability of churn(at the level of the next month) for each client
-- form typical client portraits: identify several of the most striking groups and characterize their basic properties
-- analyze the main features that most strongly affect the churn
-- to formulate the main conclusions and recommendations for improving the quality of work with clients:
-    1) identify target customer groups
-    2) propose measures to reduce churn
-    3) identify other features of interaction with customers
+#### Task:
+- Analysis of the outflow of clients from the gym. Propose a customer retention strategy.
+
+#### Description:
+- Based on the gym customer's data determine features that affect outflow.  identify several of the most striking groups of customers and characterize their main properties. Formulate the main conclusions and offer recommendations for interaction with clients.
+
+#### Scope of Activities:
+- Sports Analyst, Sport Marketing, Business services [b2b] (outsourcing consulting audit)
+
+#### Used Libraries:
+- NumPy, Pandas, Matplotlib, Seaborn, scikit-learn, datetime, math, random
+
+#### Tags:
+- EDA, Pandas, NumPy, Seaborn, histogram, boxplot, violinplot, data analyst, hypotheses testing, statistics,  scikit-learn, sklearn, Machine Learning, clustering, classification
