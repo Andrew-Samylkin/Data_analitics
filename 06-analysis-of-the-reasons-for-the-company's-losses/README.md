@@ -1,18 +1,16 @@
-На основании имеющегося лога сервера с данными о посещениях приложения новыми пользователями,
-зарегистрировавшимися в период с 2019-05-01 по 2019-10-27 выгрузки из покупок за этот прериод а также статистики рекламных расходов необходимо:
-1. откуда приходят пользователи и какими устройствами они пользуются
-2. сколько стоит привлечение пользователей из различных рекламных каналов
-3. сколько денег приносит каждый клиент
-4. когда расходы на привлечение клиента окупаются
-5. какие факторы мешают привлечению клиентов
-6. проанализировать окупаемость рекламы (ROI)
+# Analysis of the reasons for the company's losses
 
+#### Task:
+- Find reasons why the company is losing money
 
-Based on the received database log with data on user application visits,
-registered in the period from 05/01/2019 to 10/27/2019:
-1. identify channels where users come from and what devices they use
-2. CAC for channels
-3. LTV for each client
-4. when the cost of customer acquisition pays off
-5. what are the factors hindering customer acquisition?
-6. analyze ROI
+#### Description:
+- The company spends a lot of money on advertising but still loses money. Based on data about customers' behavior (visits, purchase information) and advertising expenses find out: where do users come from and what devices do they use?  How much does it cost to attract users from various advertising channels? How much money does each client bring in? When does the cost of customer acquisition pay off? What factors hinder customer acquisition? Finally, write recommendations for the marketing department.
+
+#### Scope of Activities:
+- Unit economic, marketing, marketing metric, application, CTLV, CAC
+
+#### Used Libraries:
+- NumPy, Pandas, Matplotlib, Seaborn, SciPy, Random
+
+#### Tags:
+- EDA, Pandas, NumPy, Seaborn, histogram, boxplot, data analyst, hypotheses testing, statistics, Gamedev, metrics, metric
