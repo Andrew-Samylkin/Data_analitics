@@ -1,4 +1,4 @@
-# Research on the reliability of borrowers
+# Research of Borrowers' Reliability
 
 
 #### Task: 
