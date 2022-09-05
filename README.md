@@ -71,7 +71,7 @@ Presented in the form of iPython Notebooks and readme markdown files. <br>
     <td>Python, Pandas, Numpy, Seaborn, EDA</td>
   </tr>
   <tr>
-  <td><a href="https://github.com/Andrew-Samylkin/yandex-practicum-data-analysis-projects/tree/main/02-research-on-the-reliability-of-borrowers">Research of Borrowers' Reliability</a></td>
+  <td><a href="https://github.com/Andrew-Samylkin/yandex-practicum-data-analysis-projects/tree/main/02-research-of-borrowers'-reliability">Research of Borrowers' Reliability</a></td>
     <td>Based on statistics on the solvency of clients, investigate whether the marital status and the number of the client's children affect the fact of the loan repayment on time.</td>
     <td>Python, Pandas, numpy, Matplotlib, Exploratory Data Analysis, Statistics, Seaborn</td>
   </tr>
